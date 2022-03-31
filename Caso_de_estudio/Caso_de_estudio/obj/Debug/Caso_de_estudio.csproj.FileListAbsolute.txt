@@ -1,0 +1,8 @@
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\bin\Debug\Caso_de_estudio.exe.config
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\bin\Debug\Caso_de_estudio.exe
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\bin\Debug\Caso_de_estudio.pdb
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\obj\Debug\Caso_de_estudio.csproj.AssemblyReference.cache
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\obj\Debug\Caso_de_estudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\obj\Debug\Caso_de_estudio.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\obj\Debug\Caso_de_estudio.exe
+C:\Users\HP PAVILION\OneDrive\Escritorio\Programas C#\Caso_de_estudio\Caso_de_estudio\obj\Debug\Caso_de_estudio.pdb
